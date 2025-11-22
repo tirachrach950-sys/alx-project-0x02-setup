@@ -1,4 +1,4 @@
-export interface ExampleInterface {
-  message: string;
+export interface CardProps {
+  title: string;
+  content: string;
 }
-
